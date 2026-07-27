@@ -1,8 +1,25 @@
 aid: grassroots-unwired
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/grassroots-unwired.png
 name: Grassroots Unwired
-description: Grassroots Unwired is a company surfaced as a portfolio company of bullpen-capital and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: Grassroots Unwired is a mobile-first platform for face-to-face (F2F) outreach, advocacy,
+  and fundraising, purpose-built for political campaigns, nonprofits, labor unions, and community
+  organizations. Its offline-capable mobile apps let field teams run GPS-enabled door-to-door
+  canvassing, capture in-person and peer-to-peer donations, send SMS and digital content from the
+  field, and manage event check-in, registration, and merchandise operations for 4EventDay. The
+  platform keeps collecting data, donations, and check-ins even when Wi-Fi and cell coverage are
+  spotty, then syncs in real time with major CRM, donor, and payment systems (EveryAction, NGP VAN,
+  Blackbaud Luminate, NeonCRM, Stripe, and others).
 url: https://raw.githubusercontent.com/api-evangelist/grassroots-unwired/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,9 +29,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Fundraising
+- Nonprofit
+- Political Campaigns
+- Canvassing
+- Advocacy
+- Field Organizing
+- Peer-to-Peer Texting
+- Event Management
+- Mobile
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,4 +49,15 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://grassrootsunwired.com
+  url: https://www.grassrootsunwired.com
+- type: Blog
+  url: https://www.grassrootsunwired.com/news/
+- type: PrivacyPolicy
+  url: https://www.grassrootsunwired.com/privacy/
+- type: DomainSecurity
+  url: security/grassroots-unwired-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
