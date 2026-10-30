@@ -64,6 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Grassroots Unwired is a company surfaced as a portfolio company of bullpen-capital and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Grassroots Unwired is a mobile-first platform for face-to-face (F2F) outreach, advocacy, and fundraising, purpose-built for political campaigns, nonprofits, labor unions, and community organizations. Its offline-capable mobile apps let field teams run GPS-enabled door-to-door canvassing, capture in-person and peer-to-peer donations, send SMS and digital content from the field, and manage event check-in, registration, and merchandise operations for 4EventDay. The platform keeps collecting data, donations, and check-ins even when Wi-Fi and cell coverage are spotty, then syncs in real time with major CRM, donor, and payment systems (EveryAction, NGP VAN, Blackbaud Luminate, NeonCRM, Stripe, and others).
 
-Backed by: bullpen-capital — http://grassrootsunwired.com
+**Areas:** Company · Fundraising · Non-Profit · Political Campaigns · Canvassing · Advocacy · Field Organizing · Peer-to-Peer Texting · Event Management · Mobile
+
+## Grassroots Unwired on APIs.io
+
+Everything profiled for Grassroots Unwired is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/grassroots-unwired/](https://apis.io/providers/grassroots-unwired/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Grassroots Unwired Domain Security](https://apis.io/security/grassroots-unwired/grassroots-unwired-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.grassrootsunwired.com)
+- [Blog](https://www.grassrootsunwired.com/news/)
+- [Privacy policy](https://www.grassrootsunwired.com/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 6.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/grassroots-unwired/](https://apis.io/providers/grassroots-unwired/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Grassroots Unwired: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/grassroots-unwired/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
